@@ -5,40 +5,40 @@
 Soy Desarrollador Full Stack. Actualmente estoy estudiando Ingeniería de Software, soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información y Profesional en Contaduría Pública. Desarrollador altamente capacitado en programación front-end y back-end. Experto en diseño web, diferentes lenguajes de programación, base de datos, servidores, API’s y sistemas de control de versiones.
 
 ## 💻Tecnologías
-### Lenguajes de Programación
-* Java
-* JavaScript 
-* Python
-* PHP
-* HTML5 
-* CSS
-### Frameworks
-* Spring
-* React
-* Angular
-* Laravel
-* Bootstrap
-* Material UI
-### Bases de Datos
-* MySQL
-* SQL Server
-* PostgreSQL
-* MongoDB
-* Redis
-* Firebase
-### Otros
-* Git
-* Github 
-* Bitbucket
-*  AWS,
-* Azure
-* Jira
-* Jenkins,
-* Sonar
-* NodeJS,
-* Linux
-* Windows
-* Mac Os  
+* Lenguajes de Programación
+  * Java
+  * JavaScript 
+  * Python
+  * PHP
+  * HTML5 
+  * CSS
+* Frameworks
+  * Spring
+  * React
+  * Angular
+  * Laravel
+  * Bootstrap
+  * Material UI
+* Bases de Datos
+  * MySQL
+  * SQL Server
+  * PostgreSQL
+  * MongoDB
+  * Redis
+  * Firebase
+* Otros
+  * Git
+  * Github 
+  * Bitbucket
+  *  AWS,
+  * Azure
+  * Jira
+  * Jenkins,
+  * Sonar
+  * NodeJS,
+  * Linux
+  * Windows
+  * Mac Os  
 
 ## 💪🏾Habilidades Fuertes
 * HTTP y REST.
